@@ -8,6 +8,7 @@ Able and willing to think outside the box. Constantly growing in people manageme
 
 🇧🇷 Sou desenvolvedor front-end. Entusiasta de Vue.js. Aprendiz rápido e ávido por explorar novas tecnologias. 
 Capaz e disposto a pensar fora da caixa. Crescendo constantemente em gestão de pessoas e recentemente em React, Go e AWS.
+
 ---
 <h2 align="left">👨🏻‍💻 About Me (Sobre mim):</h2>
 
