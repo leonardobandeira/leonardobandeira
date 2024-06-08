@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Leonardo 👋
 
 ## About Me (Sobre Mim)
 
