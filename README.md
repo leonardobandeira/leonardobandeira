@@ -4,14 +4,11 @@
 I'm a front-end developer. Vue.js enthusiast. Quick learner and eager to explore new technologies. 
 Able and willing to think outside the box. Constantly growing in people management and recently in React, Go and AWS.
 
----
-
 🇧🇷 Sou desenvolvedor front-end. Entusiasta de Vue.js. Aprendiz rápido e ávido por explorar novas tecnologias. 
 Capaz e disposto a pensar fora da caixa. Crescendo constantemente em gestão de pessoas e recentemente em React, Go e AWS.
-
 ---
-<h2 align="left">👨🏻‍💻 About Me (Sobre mim):</h2>
 
+<h2 align="left">👨🏻‍💻 About Me (Sobre mim):</h2>
 - :computer: I'm a Fullstack Developer, specialist in Front-end Vue.js | Sou um desenvolvedor Full-stack, especialista em Front-end com Vue.js
 - :hourglass_flowing_sand: Exploring AWS | Explorando AWS
 - :rocket: Always ready to collaborate for Dev Experiments | Sempre pronto para colaborar com experimentos dev
@@ -36,6 +33,7 @@ Capaz e disposto a pensar fora da caixa. Crescendo constantemente em gestão de 
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+---
 
 ## 🚀 Minhas Skills
 <h3 align="left">Languages and Tools (Linguagens e Ferramentas):</h3>
@@ -84,4 +82,3 @@ Capaz e disposto a pensar fora da caixa. Crescendo constantemente em gestão de 
   </a>
 </p>
 <br/>
----
