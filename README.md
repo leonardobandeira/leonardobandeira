@@ -10,6 +10,7 @@ Capaz e disposto a pensar fora da caixa. Crescendo constantemente em gestão de 
 ---
 
 <h2 align="left">👨🏻‍💻 About Me (Sobre mim):</h2>
+
 - :computer: I'm a Fullstack Developer, specialist in Front-end Vue.js | Sou um desenvolvedor Full-stack, especialista em Front-end com Vue.js
 - :hourglass_flowing_sand: Exploring AWS | Explorando AWS
 - :rocket: Always ready to collaborate for Dev Experiments | Sempre pronto para colaborar com experimentos dev
