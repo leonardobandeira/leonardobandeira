@@ -8,24 +8,19 @@ Able and willing to think outside the box. Constantly growing in people manageme
 
 🇧🇷 Sou desenvolvedor front-end. Entusiasta de Vue.js. Aprendiz rápido e ávido por explorar novas tecnologias. 
 Capaz e disposto a pensar fora da caixa. Crescendo constantemente em gestão de pessoas e recentemente em React, Go e AWS.
-
----
-
 ---
 <h2 align="left">👨🏻‍💻 About Me (Sobre mim):</h2>
 
-- :computer: I'm a Fullstack Developer, specialist in Front-end Vue.js
-- :hourglass_flowing_sand: Exploring AWS
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Graduado em Ciência da Computação
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Aluno homenageado na graduação
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :computer: I'm a Fullstack Developer, specialist in Front-end Vue.js | Sou um desenvolvedor Full-stack, especialista em Front-end com Vue.js
+- :hourglass_flowing_sand: Exploring AWS | Explorando AWS
+- :rocket: Always ready to collaborate for Dev Experiments | Sempre pronto para colaborar com experimentos dev
+- :man_technologist: Graduated in Computer Science | Graduado em Ciência da Computação
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" | "Explore :fire: e exploda :bomb: com conhecimento"
+- :trophy: Honored student | Aluno homenageado
+- :zap: Fun fact: I love coffee, movies, and books | Adoro café, filmes e livros <br>
 ---
 
-- 📫 Pode me contactar via <a href="mailto:lucena.lbd@gmail.com?subject=Oi,%20vamos%20conversar%3F"><strong>lucena.lbd@gmail.com</strong></a>
-
-<h3 align="left">Connect with me (Conecte-se comigo):</h3>
+<h3 align="left">📫 Connect with me (Conecte-se comigo):</h3>
 <p align="left">
   <a href="mailto:lucena.lbd@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -87,4 +82,5 @@ Capaz e disposto a pensar fora da caixa. Crescendo constantemente em gestão de 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
   </a>
 </p>
+<br/>
 ---
