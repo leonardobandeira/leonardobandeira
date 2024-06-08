@@ -1,25 +1,34 @@
 # Hello, I'm Leonardo 👋
 
-## About Me (Sobre Mim)
+## Sobre Mim (About Me)
 
-**English:**
+## 🧡 Olá, meu nome é Leonardo!
 
-Passionate Frontend Developer with strong organizational and adaptive skills. Experienced with JavaScript frameworks, API consumption, and writing clean, efficient, and well-documented code. Proficient in UI/UX principles, manual and exploratory testing, and proactive in developing viable prototypes. Looking to grow as a Junior or Mid-level Frontend Developer.
+Sou um desenvolvedor front-end especializado em Vue.js, apaixonado por interfaces incríveis e sempre explorando o back-end.
 
-**Português:**
+🔭 Atualmente estou trabalhando na integração de paineis BI a uma interface Angular.
 
-Desenvolvedor Frontend apaixonado por tecnologia, com habilidades organizacionais e adaptativas. Experiência sólida com frameworks JavaScript, consumo de APIs e escrita de código limpo, eficiente e bem documentado. Conhecimento em princípios de UI/UX, testes manuais e exploratórios, e proativo no desenvolvimento de protótipos viáveis. Busca crescimento como Desenvolvedor Frontend Júnior ou Pleno.
+💬 Quer entrar em contato ou conversar comigo?
 
-## Certifications & Courses (Certificações e Cursos)
+---
 
-- **AWS Cloud Practitioner** - 2024
-- **AWS re/Start, Escola da Nuvem** - 2024
-- **Google Project Management** - 2024
-- **Complete Modern Web with JavaScript + Projects, Udemy** - 2024
-- **Front-End Ninja - Course + Projects, Udemy** - 2024
-- **Vue JS 3 Complete with Composition API, Vuex & Vue Router, Udemy** - 2024
-- **Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex), Udemy** - 2024
-- **Green Digital Skills, INCO Academy** - 2024
-- **Remote Productivity Organization, Descomplica** - 2024
-- **Fullstack - WhatsApp Web Clone with Quasar (VueJS) and NodeJS, Udemy** - 2023
-- **Web Accessibility: Create Inclusive Designs (Alura)** - 2022
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardobandeira&show_icons=true)
